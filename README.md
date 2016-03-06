@@ -1,9 +1,13 @@
 # cs408_3DMouse
-This Repository is the back up for cs408 Computer Science Project lecture on fall 2015 at KAIST
+This Repository is the back up for CS408 Computer Science Project lecture on fall 2015 at KAIST.
+Please invite rest of collaborators...
 
 Project Name: 3D Mouse using Smartphone
+
 Team        : ForBlind
+
 Captain     : Byunghak Lee
+
 Member      : Sangha Woo 
               Hangyul Park
 	      Jaeyoung An
