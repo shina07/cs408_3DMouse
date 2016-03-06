@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Taesoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\build\intermediates\pre-dexed\release\support-annotations-23.0.0-dda7905a093e56cb4ec6cdcb025fe03e71dcda43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\build\intermediates\pre-dexed\release\classes-986ffa59297ae38db28af19168e5c35bd893f474.jar" />
+    </item>
+    <item
+        jar="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\build\intermediates\pre-dexed\release\classes-5400abae64fda8e41a2182b39db527c66295cfaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0-616a90439aaba459b6a1f1036be4931cf39b2e9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\libs\Jama-1.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4e7b3b81770450a21b4295e27c2ccb802ab537e1">
+        <dex dex="C:\Users\Taesoo\AndroidStudioProjects\cs408_forblind-master\app\build\intermediates\pre-dexed\release\Jama-1.0.3-f9b26d763a564cc373268130a2b12a6cdcf6f33e.jar" />
+    </item>
+
+</items>

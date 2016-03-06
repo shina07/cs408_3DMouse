@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ThreeDMouse</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pickDevice">Select device to connect via bluetooth</string>
+
+    <string name="twoDMode">2d mode</string>
+    <string name="threeDMode">3d mode</string>
+
+</resources>

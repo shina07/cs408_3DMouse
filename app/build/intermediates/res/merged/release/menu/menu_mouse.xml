@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MouseActivity">
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/actinos_switch_2d"
+        android:orderInCategory="100"
+        android:title="@string/twoDMode"/>
+
+    <item
+        android:id="@+id/actinos_switch_3d"
+        android:orderInCategory="100"
+        android:title="@string/threeDMode"/>
+
+</menu>
+<!-- From: file:/C:/Users/Taesoo/AndroidStudioProjects/cs408_forblind-master/app/src/main/res/menu/menu_mouse.xml -->
